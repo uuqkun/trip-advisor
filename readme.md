@@ -39,7 +39,7 @@ Expert system built for midterm test of **Artificial Intelligence** subject on [
 
 1. Clone project
    ```
-   git clone ...
+   git clone https://github.com/uuqkun/trip-advisor.git
    ```
 2. Move to project's directory
    ```
