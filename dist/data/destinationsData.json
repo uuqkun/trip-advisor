@@ -1,0 +1,286 @@
+{
+    "destinations": [
+        {
+            "name": "Pantai Kuta",
+            "location": "Bali",
+            "category": "Pantai",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Taman Nasional Bromo Tengger Semeru",
+            "location": "Malang",
+            "category": "Gunung",
+            "suitableWeather": [1, 2, 3]
+        },
+        {
+            "name": "Danau Toba",
+            "location": "Sumatera Utara",
+            "category": "Danau",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Bali Safari and Marine Park",
+            "location": "Bali",
+            "category": "Taman Safari",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Pegunungan Dieng",
+            "location": "Wonosobo",
+            "category": "Gunung",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Bukit Lawang",
+            "location": "Sumatera Utara",
+            "category": "Hutan",
+            "suitableWeather": [1, 2, 3]
+        },
+        {
+            "name": "Pulau Komodo",
+            "location": "Nusa Tenggara Timur",
+            "category": "Pulau",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Gili Trawangan",
+            "location": "Nusa Tenggara Barat",
+            "category": "Pulau",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Pantai Lovina",
+            "location": "Bali",
+            "category": "Pantai",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Bukit Tinggi",
+            "location": "Sumatera Barat",
+            "category": "Pegunungan",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Gunung Merapi",
+            "location": "Yogyakarta",
+            "category": "Gunung",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Taman Mini Indonesia Indah",
+            "location": "Jakarta",
+            "category": "Taman Tematik",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Raja Ampat",
+            "location": "Papua Barat",
+            "category": "Pulau",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Kawah Putih",
+            "location": "Bandung",
+            "category": "Danau",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Bunaken",
+            "location": "Sulawesi Utara",
+            "category": "Laut",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Taman Safari Prigen",
+            "location": "Pasuruan",
+            "category": "Taman Safari",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Pantai Sanur",
+            "location": "Bali",
+            "category": "Pantai",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Borobudur",
+            "location": "Magelang",
+            "category": "Candi",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Bromo Midnight Tour",
+            "location": "Malang",
+            "category": "Gunung",
+            "suitableWeather": [1, 2, 3]
+        },
+        {
+            "name": "Pulau Weh",
+            "location": "Aceh",
+            "category": "Pulau",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Pantai Pandawa",
+            "location": "Bali",
+            "category": "Pantai",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Sekitar Malang",
+            "location": "Malang",
+            "category": "Pegunungan",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Pulau Seribu",
+            "location": "DKI Jakarta",
+            "category": "Pulau",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Ujung Kulon",
+            "location": "Banten",
+            "category": "Hutan",
+            "suitableWeather": [1, 2, 3]
+        },
+        {
+            "name": "Pantai Jimbaran",
+            "location": "Bali",
+            "category": "Pantai",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Air Terjun Tumpak Sewu",
+            "location": "Lumajang",
+            "category": "Air Terjun",
+            "suitableWeather": [1, 2, 3]
+        },
+        {
+            "name": "Pulau Morotai",
+            "location": "Maluku Utara",
+            "category": "Pulau",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Pulau Derawan",
+            "location": "Kalimantan Timur",
+            "category": "Pulau",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Taman Safari Bogor",
+            "location": "Bogor",
+            "category": "Taman Safari",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Pantai Teluk Kiluan",
+            "location": "Lampung",
+            "category": "Pantai",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Pulau Menjangan",
+            "location": "Bali",
+            "category": "Pulau",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Candi Prambanan",
+            "location": "Yogyakarta",
+            "category": "Candi",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Bukit Teletubbies",
+            "location": "Nusa Tenggara Timur",
+            "category": "Pegunungan",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Pantai Sawarna",
+            "location": "Banten",
+            "category": "Pantai",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Pantai Parangtritis",
+            "location": "Yogyakarta",
+            "category": "Pantai",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Pulau Sumba",
+            "location": "Nusa Tenggara Timur",
+            "category": "Pulau",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Pulau Nusa Penida",
+            "location": "Bali",
+            "category": "Pulau",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Pulau Tidung",
+            "location": "DKI Jakarta",
+            "category": "Pulau",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Taman Wisata Alam Mangrove",
+            "location": "Jakarta",
+            "category": "Taman Wisata",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Pulau Lombok",
+            "location": "Nusa Tenggara Barat",
+            "category": "Pulau",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Pulau Harapan",
+            "location": "Kepulauan Seribu",
+            "category": "Pulau",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Pulau Karimun Jawa",
+            "location": "Jepara",
+            "category": "Pulau",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Gunung Gede Pangrango",
+            "location": "Bogor",
+            "category": "Gunung",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Taman Buaya Cisarua",
+            "location": "Bogor",
+            "category": "Taman Buaya",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Taman Bunga Nusantara",
+            "location": "Cianjur",
+            "category": "Taman Bunga",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Kawah Ijen",
+            "location": "Banyuwangi",
+            "category": "Gunung",
+            "suitableWeather": [1, 2]
+        },
+        {
+            "name": "Kepulauan Seribu",
+            "location": "DKI Jakarta",
+            "category": "Pulau",
+            "suitableWeather": [1, 2]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "weatherConditions": [
+    {
+      "id": 1,
+      "name": "Cerah"
+    },
+    {
+      "id": 2,
+      "name": "Berawan"
+    },
+    {
+      "id": 3,
+      "name": "Hujan Ringan"
+    },
+    {
+      "id": 4,
+      "name": "Hujan Lebat"
+    },
+    {
+      "id": 5,
+      "name": "Badai"
+    },
+    {
+      "id": 6,
+      "name": "Salju"
+    }
+  ]
+}
