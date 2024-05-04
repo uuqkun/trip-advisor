@@ -4,7 +4,7 @@
 
 ## Description
 
-Expert system built for midterm test of **Artificial Intelligence** subject on [`UIN Maulana Malik Ibrahim Malang`](https://informatika.uin-malang.ac.id/)
+Expert system built for midterm test of **Artificial Intelligence** subject at [`Informatika UIN Maulana Malik Ibrahim Malang`](https://informatika.uin-malang.ac.id/)
 
 ## Author
 
